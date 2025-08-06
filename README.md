@@ -73,12 +73,12 @@ Telegram Assistant is an n8n-powered workflow that transforms your Telegram bot 
 
 Create two databases in Baserow:
 
-#### Tasks Database (Table ID: 372174)
+#### Tasks Database 
 
 - Set up your task management structure
 - Note the database ID (146496) and table ID
 
-#### Contacts Database (Table ID: 372177)
+#### Contacts Database 
 
 - Create fields for contact information (emails, phone numbers)
 - Note the table ID for configuration
@@ -87,7 +87,7 @@ Create two databases in Baserow:
 
 1. Import the workflow JSON into your n8n instance
 2. Update the following parameters:
-   - **Google Calendar**: Replace `derekcheungsa@gmail.com` with your email
+   - **Google Calendar**: Replace your email
    - **Baserow Tools**: Update database and table IDs to match your setup
    - **Credentials**: Configure all service credentials
 
