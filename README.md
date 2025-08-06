@@ -3,7 +3,7 @@
 
 A powerful n8n workflow that creates an intelligent Telegram bot assistant capable of managing your emails, calendar events, tasks, and contacts through natural language conversations.
 
-![Telegram Assistant Banner](https://file+.vscode-resource.vscode-cdn.net/x%3A/pinkpantherking20-workflows/Telegram%20Assistant/image.png)
+![Telegram Assistant Banner](https://raw.githubusercontent.com/MajorAbdullah/Telegram-Assistant/main/image.png)
 
 # Problem Statement
 
